@@ -19,7 +19,7 @@ I hereby declare I have actively participated in solving every exercise. All sol
 
 /*
 ?- answer(andrew).
-The favourite text editor of the TA of this student is atom
+The favourite text editor of the TA of this student is atom 
 true.
 */
 
